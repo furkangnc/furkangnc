@@ -3,10 +3,6 @@
 
 🌱 I’m always learning and practicing ...
 
-🤔 I’m looking for help with new job.
-
-⚡ Fun fact: Developing full stack web projects.
-
 <h4> 🚀 &nbsp;Language & Tools I Have Used and Learned</h4>
 <p align="left">
  <img alt="Visual Studio" src="https://upload.wikimedia.org/wikipedia/commons/5/5f/Visual_Studio_Logo_%282013-2017%29.svg" width="30" height="30">
