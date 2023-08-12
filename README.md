@@ -24,5 +24,5 @@
 <h4>📫 How to reach me </h4>
 <p align="left">
   <a href="https://www.linkedin.com/in/furkangnc/"><img alt="LinkedIn" src="https://upload.wikimedia.org/wikipedia/commons/e/e9/Linkedin_icon.svg" width="30" height="30"></a>
-    <a href="mailto:furkan_genc@outlook.com.tr"><img alt="Jupyter" src="https://upload.wikimedia.org/wikipedia/commons/7/7e/Gmail_icon_%282020%29.svg" width="30" height="30"></a>
+    <a href="mailto:furkan_genc@outlook.com.tr"><img alt="Outlook" src="https://upload.wikimedia.org/wikipedia/commons/d/df/Microsoft_Office_Outlook_%282018%E2%80%93present%29.svg" width="30" height="30"></a>
 </p> 
